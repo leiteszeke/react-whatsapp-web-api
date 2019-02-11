@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "driver": "mysql",
+    "host": "localhost",
+    "port": "2000",
+    "user": "root",
+    "password": "root",
+    "database": "whatsapp"
+  }
+}
